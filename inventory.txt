@@ -1,0 +1,6 @@
+ElectronicDevice, E001, Laptop, 899.99, 15, Dell, 12
+ElectronicDevice, E002, Smartphone, 499.00, 30, Samsung, 24
+ElectronicDevice, E003, Headphones, 129.99, 50, Sony, 6
+Apparel, A001, T-Shirt, 19.99, 100, M, Cotton
+Apparel, A002, Jeans, 49.50, 50, L, Denim
+Apparel, A003, Hoodie, 35.00, 75, XL, Fleece
